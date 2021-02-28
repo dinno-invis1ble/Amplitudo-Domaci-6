@@ -1,0 +1,21 @@
+.container_create_immovable {
+    width: 80%;
+    margin: 70px auto;
+    display: flex;
+    justify-content: center;
+}
+
+.container_create_immovable * {
+    margin: 10px;
+    padding: 10px;
+}
+
+.container_create_immovable select {
+    padding: 2px;
+}
+
+.container_create_immovable button {
+    background-color: blue;
+    color: #fff;
+    cursor: pointer;
+}

@@ -1,0 +1,21 @@
+.container_immovable_update {
+    width: 80%;
+    margin: 70px auto;
+    display: flex;
+    justify-content: center;
+}
+
+.container_immovable_update * {
+    margin: 10px;
+    padding: 10px;
+}
+
+.container_immovable_update select {
+    padding: 2px;
+}
+
+.container_immovable_update button {
+    background-color: blue;
+    color: #fff;
+    cursor: pointer;
+}

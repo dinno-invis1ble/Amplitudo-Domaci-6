@@ -1,0 +1,20 @@
+.city_read_container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 60px 10px;
+}
+
+.city_read_container table {
+    width: 550px;
+    text-align: center;
+}
+
+.create_new_city {
+    color: white;
+    background-color: blue;
+    padding: 10px 20px;
+    text-decoration: none;
+    float: right;
+    margin: 20px 40px;
+}

@@ -1,0 +1,20 @@
+.city_add_update {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-top: 80px;
+}
+
+.city_add_update form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+}
+
+
+.city_add_update form button {
+    cursor: pointer;
+    margin-top: 20px;
+}
